@@ -18,11 +18,11 @@
       height="30"
       width="40"
   /></a>
-  <a href="https://www.hackerrank.com/mapegz" target="_blank"
+  <a href="/" target="_blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="mapegz"
+      alt="kaushikiota"
       height="30"
       width="40"
   /></a>
