@@ -101,7 +101,7 @@
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"
-      alt="firebase"
+      alt="react"
       width="40"
       height="40"
     />
@@ -116,8 +116,8 @@
   </a>
   <a href="https://github.com/doomemacs/doomemacs" target="_blank" rel="noreferrer">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg](https://github.com/gilbarbara/logos/blob/main/logos/emacs.svg"
-      alt="mongodb"
+      src="https://github.com/gilbarbara/logos/blob/main/logos/emacs.svg"
+      alt="doomemacs"
       width="40"
       height="40"
     />
