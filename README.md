@@ -18,7 +18,7 @@
       height="30"
       width="40"
   /></a>
-  <a href="/" target="_blank"
+  <a href="https://www.hackerrank.com/profile/kaushikiota" target="_blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
@@ -34,7 +34,7 @@
       height="30"
       width="40"
   /></a>
-  <a href="" target="_blank"
+  <a href="https://www.codechef.com/users/kaushikiota" target="_blank"
     ><img
       align="center"
       src="https://cdn.codechef.com/images/cc-logo-mobile-1.svg"
