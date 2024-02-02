@@ -42,6 +42,22 @@
       height="40"
       width="40"
   /></a>
+   <a href="https://discord.gg/Z5NyYgCDCB" target="_blank"
+    ><img
+      align="center"
+      src="https://www.vectorlogo.zone/logos/discord/discord-icon.svg"
+      alt="iota1602"
+      height="40"
+      width="40"
+  /></a>
+ <a href="https://twitter.com/trijalkaushik05" target="_blank"
+    ><img
+      align="center"
+      src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg"
+      alt="trijalkaushik05"
+      height="40"
+      width="40"
+  /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
