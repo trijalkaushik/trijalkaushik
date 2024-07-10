@@ -158,8 +158,8 @@
 
 <p align = "center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=kaushikiota&theme=transparent"
+    src="https://github-readme-streak-stats.herokuapp.com?user=trijalkaushik&theme=transparent"
     width="410"
-    alt="kaushikiota"
+    alt="trijalkaushik"
   />
 </p>
