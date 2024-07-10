@@ -150,9 +150,9 @@
 
 <p align ="center">
   &nbsp;<img
-    src="https://github-readme-stats.vercel.app/api?username=kaushikiota&show_icons=true&locale=en&hide=issues&theme=transparent"
+    src="https://github-readme-stats.vercel.app/api?username=trijalkaushik&show_icons=true&locale=en&hide=issues&theme=transparent"
     width="410"
-    alt="kaushikiota"
+    alt="trijalkaushik"
   />
 </p>
 
