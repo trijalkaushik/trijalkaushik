@@ -3,7 +3,7 @@
 
 <p align="center">
 <img width ="auto"
- src="https://cdn.discordapp.com/attachments/1087598854670659615/1107328643732095108/desk.jpg">
+ src="https://unsplash.com/photos/a-person-typing-on-a-laptop-in-the-dark-6tG4sQx0dh4">
 </p>
 <hr>
 
